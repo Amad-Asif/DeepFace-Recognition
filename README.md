@@ -14,6 +14,7 @@ psutil
 
 Pre Trained Models used  - Inception Resnet V1.0 
 Dataset Used - Casia WebFace
+https://drive.google.com/open?id=1wYFljcEeT-GgCw7C93syEXG9n5v-nOAh
 
 Face Aignment using MTCNN Face Detection.
 
