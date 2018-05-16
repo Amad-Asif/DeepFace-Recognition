@@ -24,19 +24,20 @@ Data Perparation
 1) Prepare a dataset of images of each person and place them in the Dataset folder in the following format
 
 Deepface Recognition
----Dataset
 
-------Person1
+----Dataset
 
-------Person2
+------------Person1
 
-.............
+------------Person2
 
-.............
+...................
 
-.............
+...................
 
-------PersonN
+...................
+
+------------PersonN
 
 2) Create a folder aligned_faces 
 3) Run python alignImages.py to crop and align the faces.
