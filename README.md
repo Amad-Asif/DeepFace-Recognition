@@ -25,11 +25,17 @@ Data Perparation
 
 Deepface Recognition
 ---Dataset
+
 ------Person1
+
 ------Person2
+
 .............
+
 .............
+
 .............
+
 ------PersonN
 
 2) Create a folder aligned_faces 
