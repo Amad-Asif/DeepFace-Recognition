@@ -50,3 +50,4 @@ Train the classifier
 6) This will create a classifier at "Deepface Recognition/classifier" directory along with a text file consisting of the key,value pair (ID,Name)
 
 Realtime Recognition - 
+To recognize faces run "python RecognizeFaces.py"
